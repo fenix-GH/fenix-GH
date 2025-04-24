@@ -17,7 +17,7 @@ I am passionate about AI, Blockchain, and Machine Learning, exploring how these 
 Whether scaling mountains of data or untangling complex algorithms, I approach challenges with a strategic mindset, leveraging my analytical skills to devise effective solutions.
 
 ## 🧐 About Me
-- 🔭 I’m currently working on earth. [Phoenix-GH](https://github.com/Phoenix-GH) is my github work account.
+- 🔭 I’m currently working on earth. [Phoenix-GH](https://github.com/Phoenix-GH) is my Github work account.
 - 💬 Feel free to ping me about topics such as React, Node.js, Angular, Vue.js, AI, Blockchain, Machine Learning, LLM, and Python. I love sharing knowledge and collaborating with fellow tech enthusiasts!
 
 ## 🛠️ Tools & Technologies
