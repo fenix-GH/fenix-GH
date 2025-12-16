@@ -4,6 +4,13 @@ I go by the name Fenix, the fearless Senior Full-Stack Developer and Software En
 
 I am an intrepid Senior Full-Stack Developer and Software Engineer, fearlessly navigating the digital realm with a versatile skill set that spans from front-end finesse to back-end wizardry. With a keen eye for design and a knack for problem-solving, I craft seamless user experiences and robust software solutions that shine brighter than lines of code on a dark screen. Whether scaling mountains of data or untangling complex algorithms, I am the go-to hero for turning tech dreams into reality.
 
+## 🧐 About Me
+- 🔭 I’m currently working on some personal fun projects:
+  <ul>
+  <li><a href="https://dota2-liart.vercel.app/">Dota 2 Hero Selection Assistant</a></li>
+  </ul>
+- 💬 Feel free to ping me about topics such as React, Node.js, Angular, Vue.js, AI, Blockchain, Machine Learning, LLM, and Python. I love sharing knowledge and collaborating with fellow tech enthusiasts!
+
 ## 🌟 My Expertise
 With a strong foundation in both front-end and back-end technologies, I specialize in crafting robust applications that shine brighter than lines of code on a dark screen. My areas of expertise include:
 
@@ -16,9 +23,6 @@ I am passionate about AI, Blockchain, and Machine Learning, exploring how these 
 ### Problem Solving:
 Whether scaling mountains of data or untangling complex algorithms, I approach challenges with a strategic mindset, leveraging my analytical skills to devise effective solutions.
 
-## 🧐 About Me
-- 🔭 I’m currently working on some personal fun projects: <a href="https://dota2-liart.vercel.app/">Dota 2 Hero Selection Assistant</a>
-- 💬 Feel free to ping me about topics such as React, Node.js, Angular, Vue.js, AI, Blockchain, Machine Learning, LLM, and Python. I love sharing knowledge and collaborating with fellow tech enthusiasts!
 
 ## 🛠️ Tools & Technologies
 <details>
